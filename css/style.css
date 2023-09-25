@@ -14,6 +14,7 @@
     position: absolute;
     top: 2%;
     left: 5%;
+    border-radius: 15%;
 }
 .banner-text{
     text-align: center;
